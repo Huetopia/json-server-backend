@@ -1,33 +1,346 @@
 {
-  "projects": [
+  "palettes": [
     {
-      "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "theme": {
+        "input": "underwater love",
+        "emojis": [
+          "🌊",
+          "💙",
+          "🐠"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#0a84ff",
+          "rgb": "rgb(10, 132, 255)",
+          "description": "Represents the vibrant blue color of the ocean",
+          "name": "Ocean Blue"
+        },
+        {
+          "hex": "#ffb879",
+          "rgb": "rgb(255, 184, 121)",
+          "description": "Symbolizes the warm and gentle sunlight seeping through the water",
+          "name": "Sunset Orange"
+        },
+        {
+          "hex": "#a1d6e2",
+          "rgb": "rgb(161, 214, 226)",
+          "description": "Evokes the calm and peaceful atmosphere underwater",
+          "name": "Aquamarine"
+        },
+        {
+          "hex": "#f5fff8",
+          "rgb": "rgb(245, 255, 248)",
+          "description": "Represents the purity and clarity of the water",
+          "name": "Crystal White"
+        },
+        {
+          "hex": "#ff4466",
+          "rgb": "rgb(255, 68, 102)",
+          "description": "Symbolizes the vibrant and colorful marine life",
+          "name": "Coral Pink"
+        }
+      ],
+      "id": 1
     },
     {
-      "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
+      "theme": {
+        "input": "hibiscus",
+        "emojis": [
+          "🌺",
+          "🌸",
+          "💮"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#FF346D",
+          "rgb": "rgb(255, 52, 109)",
+          "description": "Vibrant pink",
+          "name": "Fuchsia Pink"
+        },
+        {
+          "hex": "#FF8C94",
+          "rgb": "rgb(255, 140, 148)",
+          "description": "Soft pink",
+          "name": "Cotton Candy Pink"
+        },
+        {
+          "hex": "#FFC1B2",
+          "rgb": "rgb(255, 193, 178)",
+          "description": "Peachy pink",
+          "name": "Peach Sorbet"
+        },
+        {
+          "hex": "#FF5F8D",
+          "rgb": "rgb(255, 95, 141)",
+          "description": "Bold magenta",
+          "name": "Hot Magenta"
+        },
+        {
+          "hex": "#FFD1EC",
+          "rgb": "rgb(255, 209, 236)",
+          "description": "Light pastel pink",
+          "name": "Rosy Blush"
+        }
+      ],
+      "id": 2
     },
     {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "theme": {
+        "input": "matcha",
+        "emojis": [
+          "🍵"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#729B79",
+          "rgb": "rgb(114, 155, 121)",
+          "description": "Earthy and natural, resembling the shade of matcha green tea",
+          "name": "Matcha Green"
+        },
+        {
+          "hex": "#A0C39C",
+          "rgb": "rgb(160, 195, 156)",
+          "description": "Mellow and soothing, reminiscent of a cup of matcha tea",
+          "name": "Moss Green"
+        },
+        {
+          "hex": "#CCEBD6",
+          "rgb": "rgb(204, 235, 214)",
+          "description": "Fresh and invigorating, like the color of matcha powder",
+          "name": "Pistachio"
+        },
+        {
+          "hex": "#D4E9D6",
+          "rgb": "rgb(212, 233, 214)",
+          "description": "Soft and delicate, resembling the hue of prepared matcha tea",
+          "name": "Pale Green"
+        },
+        {
+          "hex": "#F6FCEF",
+          "rgb": "rgb(246, 252, 239)",
+          "description": "Clean and pure, like the froth on top of a matcha latte",
+          "name": "Cream"
+        }
+      ],
+      "id": 3
     },
     {
-      "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "theme": {
+        "input": "vacation in italy",
+        "emojis": [
+          "✈️",
+          "🏖️",
+          "🍕"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#D4A5A5",
+          "rgb": "rgb(212, 165, 165)",
+          "description": "Soft and sandy color representing the beaches of Italy",
+          "name": "Beach Sand"
+        },
+        {
+          "hex": "#275C6B",
+          "rgb": "rgb(39, 92, 107)",
+          "description": "Deep blue color inspired by the beautiful Mediterranean Sea",
+          "name": "Mediterranean Blue"
+        },
+        {
+          "hex": "#F9E1A2",
+          "rgb": "rgb(249, 225, 162)",
+          "description": "Warm and sunny color resembling the bright Italian sunlight",
+          "name": "Sunny Yellow"
+        },
+        {
+          "hex": "#CB333B",
+          "rgb": "rgb(203, 51, 59)",
+          "description": "Vibrant red representing the famous Italian cuisine, especially pizza",
+          "name": "Pizza Red"
+        },
+        {
+          "hex": "#D5C7AE",
+          "rgb": "rgb(213, 199, 174)",
+          "description": "Neutral and earthy color symbolizing the charming Italian countryside",
+          "name": "Countryside Beige"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "theme": {
+        "input": "Berlin night club",
+        "emojis": [
+          "🌃",
+          "🎵",
+          "🍻"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#FAC8CD",
+          "rgb": "rgb(250, 200, 205)",
+          "description": "Soft pink color resembling the neon lights and inviting atmosphere of a Berlin night club",
+          "name": "Neon Pink"
+        },
+        {
+          "hex": "#141C28",
+          "rgb": "rgb(20, 28, 40)",
+          "description": "Dark navy blue representing the mysterious and energetic nightlife vibe of Berlin",
+          "name": "Midnight Blue"
+        },
+        {
+          "hex": "#E8B800",
+          "rgb": "rgb(232, 184, 0)",
+          "description": "Vibrant golden yellow symbolizing the energetic and lively music played in Berlin night clubs",
+          "name": "Electric Yellow"
+        },
+        {
+          "hex": "#9ACD32",
+          "rgb": "rgb(154, 205, 50)",
+          "description": "Lively and energetic green representing the vibrant and animated crowd of a Berlin night club",
+          "name": "Party Green"
+        },
+        {
+          "hex": "#884499",
+          "rgb": "rgb(136, 68, 153)",
+          "description": "Deep purple color symbolizing the cool and alternative scene found in Berlin night clubs",
+          "name": "Hazy Purple"
+        }
+      ],
+      "id": 5
+    },
+    {
+      "theme": {
+        "input": "Cherry blossom festival",
+        "emojis": [
+          "🌸",
+          "🎎",
+          "🌸"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#F8D7D9",
+          "rgb": "rgb(248, 215, 217)",
+          "description": "Soft and delicate pink color representing the beautiful cherry blossoms in full bloom",
+          "name": "Cherry Blossom Pink"
+        },
+        {
+          "hex": "#C25C70",
+          "rgb": "rgb(194, 92, 112)",
+          "description": "Deep and vibrant red symbolizing the joyful celebrations and lively atmosphere of the festival",
+          "name": "Crimson Red"
+        },
+        {
+          "hex": "#FFF5E0",
+          "rgb": "rgb(255, 245, 224)",
+          "description": "Warm and light beige color resembling the peaceful and serene ambiance of a cherry blossom garden",
+          "name": "Blossom Beige"
+        },
+        {
+          "hex": "#B8D8BA",
+          "rgb": "rgb(184, 216, 186)",
+          "description": "Fresh and calming green representing the surrounding nature and foliage during the festival",
+          "name": "Nature Green"
+        },
+        {
+          "hex": "#F4C7DB",
+          "rgb": "rgb(244, 199, 219)",
+          "description": "Soft purple color symbolizing the elegance and beauty of the cherry blossoms",
+          "name": "Blossom Purple"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "theme": {
+        "input": "Art gallery exhibit",
+        "emojis": [
+          "🖼️",
+          "🎨",
+          "🔍"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#EFEFEF",
+          "rgb": "rgb(239, 239, 239)",
+          "description": "Clean and neutral white color representing the gallery walls that showcase the artwork",
+          "name": "Gallery White"
+        },
+        {
+          "hex": "#212121",
+          "rgb": "rgb(33, 33, 33)",
+          "description": "Deep black representing the dark background that enhances the vibrant colors of the artwork",
+          "name": "Artistic Black"
+        },
+        {
+          "hex": "#FFBC42",
+          "rgb": "rgb(255, 188, 66)",
+          "description": "Bold and vibrant golden color symbolizing the richness and creativity of the displayed artwork",
+          "name": "Artistic Gold"
+        },
+        {
+          "hex": "#6465A5",
+          "rgb": "rgb(100, 101, 165)",
+          "description": "Cool and calming blue representing the tranquility and peacefulness of an art gallery",
+          "name": "Gallery Blue"
+        },
+        {
+          "hex": "#FF6464",
+          "rgb": "rgb(255, 100, 100)",
+          "description": "Energetic and expressive red representing the passion and emotions conveyed through the artwork",
+          "name": "Artistic Red"
+        }
+      ],
+      "id": 7
+    },
+    {
+      "theme": {
+        "input": "safari in the jungle",
+        "emojis": [
+          "🌿",
+          "🐆",
+          "🐍"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#006400",
+          "rgb": "rgb(0, 100, 0)",
+          "description": "Represents lush green foliage of the jungle",
+          "name": "Jungle Green"
+        },
+        {
+          "hex": "#FFD700",
+          "rgb": "rgb(255, 215, 0)",
+          "description": "Symbolizes the golden rays of sunlight filtering through the trees",
+          "name": "Sunshine Yellow"
+        },
+        {
+          "hex": "#8B4513",
+          "rgb": "rgb(139, 69, 19)",
+          "description": "Evokes the warm and earthy tones found in the savannah",
+          "name": "Safari Brown"
+        },
+        {
+          "hex": "#FF8C00",
+          "rgb": "rgb(255, 140, 0)",
+          "description": "Resembles the vibrant color of a majestic tiger",
+          "name": "Tiger Orange"
+        },
+        {
+          "hex": "#228B22",
+          "rgb": "rgb(34, 139, 34)",
+          "description": "Represents the lush vegetation and abundant life in the safari",
+          "name": "Safari Green"
+        }
+      ],
+      "id": 8
     }
   ]
 }
