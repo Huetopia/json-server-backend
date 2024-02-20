@@ -341,6 +341,474 @@
         }
       ],
       "id": 8
+    },
+    {
+      "theme": {
+        "input": "hiking on a calm river",
+        "emojis": ["🏞️", "🚶‍♂️", "🌊"]
+      },
+      "colors": [
+        {
+          "hex": "#8AB8A8",
+          "rgb": "rgb(138, 184, 168)",
+          "description": "The calming color of the river reflecting the sky",
+          "name": "Tranquil Teal"
+        },
+        {
+          "hex": "#BFD7B5",
+          "rgb": "rgb(191, 215, 181)",
+          "description": "Soft green representing the lush riverside foliage",
+          "name": "Serenity Green"
+        },
+        {
+          "hex": "#F2E4C2",
+          "rgb": "rgb(242, 228, 194)",
+          "description": "Warm beige resembling the sandy riverbank",
+          "name": "Riverside Beige"
+        },
+        {
+          "hex": "#92A8D1",
+          "rgb": "rgb(146, 168, 209)",
+          "description": "A calm blue symbolizing the peaceful sky over the river",
+          "name": "River Blue"
+        },
+        {
+          "hex": "#DFD1B3",
+          "rgb": "rgb(223, 209, 179)",
+          "description": "Earthy tone mimicking the smooth river rocks",
+          "name": "Stone Gray"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "theme": {
+        "input": "kimono silk",
+        "emojis": ["👘", "🧶"]
+      },
+      "colors": [
+        {
+          "hex": "#FFD700",
+          "rgb": "rgb(255, 215, 0)",
+          "description": "Radiant and luxurious like silk",
+          "name": "Goldenrod"
+        },
+        {
+          "hex": "#FF69B4",
+          "rgb": "rgb(255, 105, 180)",
+          "description": "Soft and delicate like silk",
+          "name": "Hot Pink"
+        },
+        {
+          "hex": "#9932CC",
+          "rgb": "rgb(153, 50, 204)",
+          "description": "Elegant and rich like silk",
+          "name": "Dark Orchid"
+        },
+        {
+          "hex": "#40E0D0",
+          "rgb": "rgb(64, 224, 208)",
+          "description": "Cool and calming like silk",
+          "name": "Turquoise"
+        },
+        {
+          "hex": "#FFA07A",
+          "rgb": "rgb(255, 160, 122)",
+          "description": "Warm and inviting like silk",
+          "name": "Light Salmon"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "theme": {
+        "input": "shopping at fifth avenue",
+        "emojis": ["🛍️", "🏬", "🛒"]
+      },
+      "colors": [
+        {
+          "hex": "#C11B17",
+          "rgb": "rgb(193, 27, 23)",
+          "description": "Represents luxury and elegance",
+          "name": "Crimson Red"
+        },
+        {
+          "hex": "#FFD700",
+          "rgb": "rgb(255, 215, 0)",
+          "description": "Symbolizes wealth and opulence",
+          "name": "Gold"
+        },
+        {
+          "hex": "#FFE4E1",
+          "rgb": "rgb(255, 228, 225)",
+          "description": "Evokes a sense of femininity and sophistication",
+          "name": "Blush Pink"
+        },
+        {
+          "hex": "#89CFF0",
+          "rgb": "rgb(137, 207, 240)",
+          "description": "Reflects a modern and trendy vibe",
+          "name": "Sky Blue"
+        },
+        {
+          "hex": "#645452",
+          "rgb": "rgb(100, 84, 82)",
+          "description": "Adds a touch of urban chic and versatility",
+          "name": "Charcoal Gray"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "theme": {
+        "input": "croissant",
+        "emojis": ["🥐"]
+      },
+      "colors": [
+        {
+          "hex": "#F7E5B7",
+          "rgb": "rgb(247, 229, 183)",
+          "description": "Warm and inviting like the crust of a croissant",
+          "name": "Buttercream"
+        },
+        {
+          "hex": "#EAD8A4",
+          "rgb": "rgb(234, 216, 164)",
+          "description": "Soft and light, resembling the inside of a croissant",
+          "name": "Vanilla Cream"
+        },
+        {
+          "hex": "#C88A30",
+          "rgb": "rgb(200, 138, 48)",
+          "description": "Rich and golden like a perfectly baked croissant",
+          "name": "Golden Brown"
+        },
+        {
+          "hex": "#744C1C",
+          "rgb": "rgb(116, 76, 28)",
+          "description": "Deep and toasty, reflecting the crust of a croissant",
+          "name": "Toasted Bronze"
+        },
+        {
+          "hex": "#F0E3C3",
+          "rgb": "rgb(240, 227, 195)",
+          "description": "Light and airy, reminiscent of the flakiness of a croissant",
+          "name": "Flaky Crust"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "theme": {
+        "input": "pizza",
+        "emojis": ["🍕"]
+      },
+      "colors": [
+        {
+          "hex": "#D4AA00",
+          "rgb": "rgb(212, 170, 0)",
+          "description": "Represents melted cheese on pizza",
+          "name": "Cheese Yellow"
+        },
+        {
+          "hex": "#A32822",
+          "rgb": "rgb(163, 40, 34)",
+          "description": "Inspired by rich tomato sauce",
+          "name": "Tomato Red"
+        },
+        {
+          "hex": "#80461B",
+          "rgb": "rgb(128, 70, 27)",
+          "description": "Evokes the color of crispy crust",
+          "name": "Crust Brown"
+        },
+        {
+          "hex": "#008000",
+          "rgb": "rgb(0, 128, 0)",
+          "description": "Reminds of fresh basil leaves",
+          "name": "Basil Green"
+        },
+        {
+          "hex": "#F0E68C",
+          "rgb": "rgb(240, 230, 140)",
+          "description": "Suggests the warmth of baked dough",
+          "name": "Baked Dough"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "theme": {
+        "input": "in the mood for love",
+        "emojis": ["❤️", "💕", "🌹"]
+      },
+      "colors": [
+        {
+          "hex": "#FFC0CB",
+          "rgb": "rgb(255, 192, 203)",
+          "description": "Soft and romantic, reminiscent of a gentle blush",
+          "name": "Blush Pink"
+        },
+        {
+          "hex": "#FF69B4",
+          "rgb": "rgb(255, 105, 180)",
+          "description": "Lively and vibrant, symbolizing passion and excitement",
+          "name": "Hot Pink"
+        },
+        {
+          "hex": "#FF1493",
+          "rgb": "rgb(255, 20, 147)",
+          "description": "Bold and alluring, representing love and romance",
+          "name": "Deep Pink"
+        },
+        {
+          "hex": "#F08080",
+          "rgb": "rgb(240, 128, 128)",
+          "description": "Warm and comforting, evoking feelings of affection",
+          "name": "Light Coral"
+        },
+        {
+          "hex": "#DC143C",
+          "rgb": "rgb(220, 20, 60)",
+          "description": "Passionate and intense, a classic color of love",
+          "name": "Crimson"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "theme": {
+        "input": "pokemon",
+        "emojis": ["⚡", "⏰", "⭐"]
+      },
+      "colors": [
+        {
+          "hex": "#F34423",
+          "rgb": "rgb(243, 68, 35)",
+          "description": "Inspired by the fiery attributes of Charizard",
+          "name": "Charizard Red"
+        },
+        {
+          "hex": "#0079C1",
+          "rgb": "rgb(0, 121, 193)",
+          "description": "Resembles the color of the iconic Pikachu",
+          "name": "Pikachu Yellow"
+        },
+        {
+          "hex": "#0865B0",
+          "rgb": "rgb(8, 101, 176)",
+          "description": "Reflects the water element of Squirtle",
+          "name": "Squirtle Blue"
+        },
+        {
+          "hex": "#732645",
+          "rgb": "rgb(115, 38, 69)",
+          "description": "Inspired by the mysterious nature of Gengar",
+          "name": "Gengar Purple"
+        },
+        {
+          "hex": "#88B92D",
+          "rgb": "rgb(136, 185, 45)",
+          "description": "Inspired by the grassy attributes of Bulbasaur",
+          "name": "Bulbasaur Green"
+        }
+      ],
+      "id": 15
+    },
+    {
+      "theme": {
+        "input": "chinese new year",
+        "emojis": ["🧧", "🏮", "🐉"]
+      },
+      "colors": [
+        {
+          "hex": "#DC3545",
+          "rgb": "rgb(220, 53, 69)",
+          "description": "Represents good fortune and joy",
+          "name": "Crimson Red"
+        },
+        {
+          "hex": "#F37338",
+          "rgb": "rgb(243, 115, 56)",
+          "description": "Symbolizes happiness and celebration",
+          "name": "Tangerine Orange"
+        },
+        {
+          "hex": "#FFD700",
+          "rgb": "rgb(255, 215, 0)",
+          "description": "Signifies wealth and prosperity",
+          "name": "Gold"
+        },
+        {
+          "hex": "#D4AF37",
+          "rgb": "rgb(212, 175, 55)",
+          "description": "Associated with good luck and fortune",
+          "name": "Goldenrod Yellow"
+        },
+        {
+          "hex": "#861F41",
+          "rgb": "rgb(134, 31, 65)",
+          "description": "Symbolizes energy and power",
+          "name": "Burgundy"
+        }
+      ],
+      "id": 16
+    },
+    {
+      "theme": {
+        "input": "casino royale",
+        "emojis": ["🎲", "💰", "♠️"]
+      },
+      "colors": [
+        {
+          "hex": "#7D2838",
+          "rgb": "rgb(125, 40, 56)",
+          "description": "Represents the elegance and drama of a casino",
+          "name": "Royal Red"
+        },
+        {
+          "hex": "#1B998B",
+          "rgb": "rgb(27, 153, 139)",
+          "description": "Reflects the sophistication and luxury associated with casinos",
+          "name": "Casino Teal"
+        },
+        {
+          "hex": "#F4D35E",
+          "rgb": "rgb(244, 211, 94)",
+          "description": "Evokes the glamour and excitement of a casino night",
+          "name": "Golden Glam"
+        },
+        {
+          "hex": "#2E294E",
+          "rgb": "rgb(46, 41, 78)",
+          "description": "Symbolizes the mystery and allure of a casino setting",
+          "name": "Midnight Blue"
+        },
+        {
+          "hex": "#F7797D",
+          "rgb": "rgb(247, 121, 125)",
+          "description": "Adds a touch of passion and energy reminiscent of a casino atmosphere",
+          "name": "Lucky Pink"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "theme": {
+        "input": "barbie dream house",
+        "emojis": ["💖", "🎀", "🏠"]
+      },
+      "colors": [
+        {
+          "hex": "#FF69B4",
+          "rgb": "rgb(255, 105, 180)",
+          "description": "Pink represents femininity and glamour, perfect for a Barbie dream house.",
+          "name": "Barbie Pink"
+        },
+        {
+          "hex": "#FFE4E1",
+          "rgb": "rgb(255, 228, 225)",
+          "description": "A soft pink color symbolizing elegance and playfulness.",
+          "name": "Cotton Candy Pink"
+        },
+        {
+          "hex": "#FFFFFF",
+          "rgb": "rgb(255, 255, 255)",
+          "description": "White signifies purity and cleanliness, creating a fresh and modern look.",
+          "name": "Snow White"
+        },
+        {
+          "hex": "#FFC0CB",
+          "rgb": "rgb(255, 192, 203)",
+          "description": "A light pink shade conveying sweetness and charm.",
+          "name": "Cherry Blossom Pink"
+        },
+        {
+          "hex": "#FFD700",
+          "rgb": "rgb(255, 215, 0)",
+          "description": "A touch of gold adds a luxurious and glamorous feel to the palette.",
+          "name": "Goldenrod"
+        }
+      ],
+      "id": 18
+    },
+    {
+      "theme": {
+        "input": "sofia coppola",
+        "emojis": ["🎥", "🌸", "💫"]
+      },
+      "colors": [
+        {
+          "hex": "#F7BFD8",
+          "rgb": "rgb(247, 191, 216)",
+          "description": "Soft and feminine, reflecting Coppola's aesthetic",
+          "name": "Blush Pink"
+        },
+        {
+          "hex": "#A6D6D6",
+          "rgb": "rgb(166, 214, 214)",
+          "description": "Elegant and serene, representing her attention to detail",
+          "name": "Soft Aqua"
+        },
+        {
+          "hex": "#F2E2E0",
+          "rgb": "rgb(242, 226, 224)",
+          "description": "Subtle and romantic, reminiscent of her dreamy style",
+          "name": "Pale Rose"
+        },
+        {
+          "hex": "#E8C3B9",
+          "rgb": "rgb(232, 195, 185)",
+          "description": "Warm and inviting, mirroring the intimacy in her films",
+          "name": "Dusty Rose"
+        },
+        {
+          "hex": "#D1BCE3",
+          "rgb": "rgb(209, 188, 227)",
+          "description": "Muted and sophisticated, capturing her modern sensibility",
+          "name": "Lavender Grey"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "theme": {
+        "input": "sleepy koala",
+        "emojis": ["😴", "🐨"]
+      },
+      "colors": [
+        {
+          "hex": "#6E757D",
+          "rgb": "rgb(110, 117, 125)",
+          "description": "Soft and calming, resembling the koala's fur",
+          "name": "Cozy Grey"
+        },
+        {
+          "hex": "#A8A7A7",
+          "rgb": "rgb(168, 167, 167)",
+          "description": "Muted and tranquil, like a sleepy atmosphere",
+          "name": "Sleepy Silver"
+        },
+        {
+          "hex": "#C3B8B6",
+          "rgb": "rgb(195, 184, 182)",
+          "description": "Warm and gentle, reminiscent of a cozy nap",
+          "name": "Snuggle Beige"
+        },
+        {
+          "hex": "#7E827A",
+          "rgb": "rgb(126, 130, 122)",
+          "description": "Subdued and restful, reflecting the essence of relaxation",
+          "name": "Tranquil Olive"
+        },
+        {
+          "hex": "#B4A99D",
+          "rgb": "rgb(180, 169, 157)",
+          "description": "Earthy and soothing, like the peaceful nature of a koala",
+          "name": "Doze Taupe"
+        }
+      ],
+      "id": 20
     }
   ],
   "favourites": []
