@@ -345,7 +345,11 @@
     {
       "theme": {
         "input": "hiking on a calm river",
-        "emojis": ["🏞️", "🚶‍♂️", "🌊"]
+        "emojis": [
+          "🏞️",
+          "🚶‍♂️",
+          "🌊"
+        ]
       },
       "colors": [
         {
@@ -384,7 +388,10 @@
     {
       "theme": {
         "input": "kimono silk",
-        "emojis": ["👘", "🧶"]
+        "emojis": [
+          "👘",
+          "🧶"
+        ]
       },
       "colors": [
         {
@@ -423,7 +430,11 @@
     {
       "theme": {
         "input": "shopping at fifth avenue",
-        "emojis": ["🛍️", "🏬", "🛒"]
+        "emojis": [
+          "🛍️",
+          "🏬",
+          "🛒"
+        ]
       },
       "colors": [
         {
@@ -462,7 +473,9 @@
     {
       "theme": {
         "input": "croissant",
-        "emojis": ["🥐"]
+        "emojis": [
+          "🥐"
+        ]
       },
       "colors": [
         {
@@ -501,7 +514,9 @@
     {
       "theme": {
         "input": "pizza",
-        "emojis": ["🍕"]
+        "emojis": [
+          "🍕"
+        ]
       },
       "colors": [
         {
@@ -540,7 +555,11 @@
     {
       "theme": {
         "input": "in the mood for love",
-        "emojis": ["❤️", "💕", "🌹"]
+        "emojis": [
+          "❤️",
+          "💕",
+          "🌹"
+        ]
       },
       "colors": [
         {
@@ -579,7 +598,11 @@
     {
       "theme": {
         "input": "pokemon",
-        "emojis": ["⚡", "⏰", "⭐"]
+        "emojis": [
+          "⚡",
+          "⏰",
+          "⭐"
+        ]
       },
       "colors": [
         {
@@ -618,7 +641,11 @@
     {
       "theme": {
         "input": "chinese new year",
-        "emojis": ["🧧", "🏮", "🐉"]
+        "emojis": [
+          "🧧",
+          "🏮",
+          "🐉"
+        ]
       },
       "colors": [
         {
@@ -657,7 +684,11 @@
     {
       "theme": {
         "input": "casino royale",
-        "emojis": ["🎲", "💰", "♠️"]
+        "emojis": [
+          "🎲",
+          "💰",
+          "♠️"
+        ]
       },
       "colors": [
         {
@@ -696,7 +727,11 @@
     {
       "theme": {
         "input": "barbie dream house",
-        "emojis": ["💖", "🎀", "🏠"]
+        "emojis": [
+          "💖",
+          "🎀",
+          "🏠"
+        ]
       },
       "colors": [
         {
@@ -735,7 +770,11 @@
     {
       "theme": {
         "input": "sofia coppola",
-        "emojis": ["🎥", "🌸", "💫"]
+        "emojis": [
+          "🎥",
+          "🌸",
+          "💫"
+        ]
       },
       "colors": [
         {
@@ -774,7 +813,10 @@
     {
       "theme": {
         "input": "sleepy koala",
-        "emojis": ["😴", "🐨"]
+        "emojis": [
+          "😴",
+          "🐨"
+        ]
       },
       "colors": [
         {
@@ -809,6 +851,407 @@
         }
       ],
       "id": 20
+    },
+    {
+      "theme": {
+        "input": "starry night",
+        "emojis": [
+          "✨",
+          "🌌",
+          "🌙"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#002147",
+          "rgb": "rgb(0, 33, 71)",
+          "description": "Deep blue like the night sky",
+          "name": "Midnight Blue"
+        },
+        {
+          "hex": "#273d57",
+          "rgb": "rgb(39, 61, 87)",
+          "description": "Dark tone resembling the night",
+          "name": "Nightfall"
+        },
+        {
+          "hex": "#456990",
+          "rgb": "rgb(69, 105, 144)",
+          "description": "Cool blue like a serene night",
+          "name": "Moonlit Ocean"
+        },
+        {
+          "hex": "#f0edd7",
+          "rgb": "rgb(240, 237, 215)",
+          "description": "Soft cream color of distant stars",
+          "name": "Stardust"
+        },
+        {
+          "hex": "#ffd700",
+          "rgb": "rgb(255, 215, 0)",
+          "description": "Golden hue representing sparkling stars",
+          "name": "Starlight Gold"
+        }
+      ],
+      "id": 21
+    },
+    {
+      "theme": {
+        "input": "Mediterranean Heatwave",
+        "emojis": [
+          "🏝️",
+          "☀️",
+          "🔥"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#FF5733",
+          "rgb": "rgb(255, 87, 51)",
+          "description": "Represents the scorching heat of the sun",
+          "name": "Fiery Orange"
+        },
+        {
+          "hex": "#FFE74C",
+          "rgb": "rgb(255, 231, 76)",
+          "description": "Resembles the bright and intense sunlight",
+          "name": "Sunny Yellow"
+        },
+        {
+          "hex": "#FF7F50",
+          "rgb": "rgb(255, 127, 80)",
+          "description": "Evokes the warmth of a summer heatwave",
+          "name": "Coral"
+        },
+        {
+          "hex": "#FFD700",
+          "rgb": "rgb(255, 215, 0)",
+          "description": "Reflects the golden hues of a hot day",
+          "name": "Gold"
+        },
+        {
+          "hex": "#FF6347",
+          "rgb": "rgb(255, 99, 71)",
+          "description": "Symbolizes the intense heat of a heatwave",
+          "name": "Tomato Red"
+        }
+      ],
+      "id": 22
+    },
+    {
+      "theme": {
+        "input": "skiing in the snow",
+        "emojis": [
+          "⛷️",
+          "❄️"
+        ]
+      },
+      "colors": [
+        {
+          "hex": "#FFFFFF",
+          "rgb": "rgb(255, 255, 255)",
+          "description": "Pure white, symbolizing the snow-covered mountains",
+          "name": "Snow White"
+        },
+        {
+          "hex": "#B0E0E6",
+          "rgb": "rgb(176, 224, 230)",
+          "description": "Light blue, representing the clear sky reflecting on the snow",
+          "name": "Powder Blue"
+        },
+        {
+          "hex": "#4682B4",
+          "rgb": "rgb(70, 130, 180)",
+          "description": "Steel blue, evoking the icy chill of the winter landscape",
+          "name": "Icy Blue"
+        },
+        {
+          "hex": "#556B2F",
+          "rgb": "rgb(85, 107, 47)",
+          "description": "Olive green, inspired by the coniferous trees dotting the snowy slopes",
+          "name": "Pine Green"
+        },
+        {
+          "hex": "#A0522D",
+          "rgb": "rgb(160, 82, 45)",
+          "description": "Saddle brown, reminiscent of the wooden ski lodge against the snowy backdrop",
+          "name": "Ski Lodge Brown"
+        }
+      ],
+      "id": 23
+    },
+    {
+      "theme": {
+        "input": "city pop",
+        "emojis": ["🌆", "🎶", "🎷"]
+      },
+      "colors": [
+        {
+          "hex": "#f2ccd7",
+          "rgb": "rgb(242, 204, 215)",
+          "description": "Soft pink representing the sun setting over a bustling city",
+          "name": "City Sunset Pink"
+        },
+        {
+          "hex": "#94a3a8",
+          "rgb": "rgb(148, 163, 168)",
+          "description": "Cool grey resembling the city skyline at dusk",
+          "name": "Dusk Sky Grey"
+        },
+        {
+          "hex": "#ff5e78",
+          "rgb": "rgb(255, 94, 120)",
+          "description": "Vibrant coral symbolizing the city lights and energy at night",
+          "name": "Neon City Coral"
+        },
+        {
+          "hex": "#83c5be",
+          "rgb": "rgb(131, 197, 190)",
+          "description": "Teal representing the calming influence of water amid city chaos",
+          "name": "Aqua Oasis Teal"
+        },
+        {
+          "hex": "#ffbe86",
+          "rgb": "rgb(255, 190, 134)",
+          "description": "Warm peach reflecting the retro and nostalgic vibes of city pop music",
+          "name": "Retro Sunset Peach"
+        }
+      ],
+      "id": 24
+    },
+    {
+      "theme": {
+        "input": "lazy sunday",
+        "emojis": ["☁️", "🌿", "🛋️"]
+      },
+      "colors": [
+        {
+          "hex": "#F5E6CA",
+          "rgb": "rgb(245, 230, 202)",
+          "description": "Soft and warm like a cozy blanket on a lazy day",
+          "name": "Creamy Beige"
+        },
+        {
+          "hex": "#C4CBB5",
+          "rgb": "rgb(196, 203, 181)",
+          "description": "Calming and serene like a peaceful garden",
+          "name": "Sage Green"
+        },
+        {
+          "hex": "#E3D3D1",
+          "rgb": "rgb(227, 211, 209)",
+          "description": "Subtle and gentle like a quiet morning",
+          "name": "Blush Pink"
+        },
+        {
+          "hex": "#B8C1CA",
+          "rgb": "rgb(184, 193, 202)",
+          "description": "Relaxing and soothing like a calm sky",
+          "name": "Sky Blue"
+        },
+        {
+          "hex": "#D9BFA6",
+          "rgb": "rgb(217, 191, 166)",
+          "description": "Cozy and inviting like a comfortable sofa",
+          "name": "Warm Taupe"
+        }
+      ],
+      "id": 25
+    },
+    {
+      "theme": {
+        "input": "memoirs of a geisha",
+        "emojis": ["🎎", "🌸", "🎐"]
+      },
+      "colors": [
+        {
+          "hex": "#F6B6B2",
+          "rgb": "rgb(246, 182, 178)",
+          "description": "Soft and delicate like cherry blossoms",
+          "name": "Sakura Pink"
+        },
+        {
+          "hex": "#F4E1D2",
+          "rgb": "rgb(244, 225, 210)",
+          "description": "Elegant and refined like a geisha's kimono",
+          "name": "Kimono Ivory"
+        },
+        {
+          "hex": "#7D7F7D",
+          "rgb": "rgb(125, 127, 125)",
+          "description": "Mysterious and enigmatic like a geisha's allure",
+          "name": "Geisha Gray"
+        },
+        {
+          "hex": "#FFC857",
+          "rgb": "rgb(255, 200, 87)",
+          "description": "Bright and captivating like a geisha's fan",
+          "name": "Fan Yellow"
+        },
+        {
+          "hex": "#223A5E",
+          "rgb": "rgb(34, 58, 94)",
+          "description": "Deep and contemplative like the memoirs of a geisha",
+          "name": "Memoir Blue"
+        }
+      ],
+      "id": 26
+    },
+    {
+      "theme": {
+        "input": "see you in hell",
+        "emojis": ["🔥", "😈"]
+      },
+      "colors": [
+        {
+          "hex": "#7F0000",
+          "rgb": "rgb(127, 0, 0)",
+          "description": "Representing the flames of hell",
+          "name": "Inferno Red"
+        },
+        {
+          "hex": "#1A1A1A",
+          "rgb": "rgb(26, 26, 26)",
+          "description": "Symbolizing darkness and despair",
+          "name": "Eternal Black"
+        },
+        {
+          "hex": "#870A24",
+          "rgb": "rgb(135, 10, 36)",
+          "description": "Evoking a sense of danger and warning",
+          "name": "Crimson Warning"
+        },
+        {
+          "hex": "#4F1111",
+          "rgb": "rgb(79, 17, 17)",
+          "description": "Mimicking the color of burning embers",
+          "name": "Ember Glow"
+        },
+        {
+          "hex": "#5E0509",
+          "rgb": "rgb(94, 5, 9)",
+          "description": "Signifying the heat and intensity of hellfire",
+          "name": "Hellfire Scarlet"
+        }
+      ],
+      "id": 27
+    },
+    {
+      "theme": {
+        "input": "lonely in gorgeous",
+        "emojis": ["😔", "🌸", "💖"]
+      },
+      "colors": [
+        {
+          "hex": "#7C98B3",
+          "rgb": "rgb(124, 152, 179)",
+          "description": "Representing solitude and contemplation",
+          "name": "Serenity Blue"
+        },
+        {
+          "hex": "#F4A7B9",
+          "rgb": "rgb(244, 167, 185)",
+          "description": "Evoke feelings of beauty and elegance",
+          "name": "Blush Pink"
+        },
+        {
+          "hex": "#F3E9D2",
+          "rgb": "rgb(243, 233, 210)",
+          "description": "Symbolizing hope and purity",
+          "name": "Champagne Beige"
+        },
+        {
+          "hex": "#7D84B2",
+          "rgb": "rgb(125, 132, 178)",
+          "description": "Conveying a sense of mystery and allure",
+          "name": "Lavender Gray"
+        },
+        {
+          "hex": "#FFE3E3",
+          "rgb": "rgb(255, 227, 227)",
+          "description": "Reflecting innocence and vulnerability",
+          "name": "Rose Quartz"
+        }
+      ],
+      "id": 28
+    },
+    {
+      "theme": {
+        "input": "Sex Pistols",
+        "emojis": ["🎸", "💥", "🔫"]
+      },
+      "colors": [
+        {
+          "hex": "#ed1c24",
+          "rgb": "rgb(237, 28, 36)",
+          "description": "Represents rebellion and punk attitude",
+          "name": "Anarchy Red"
+        },
+        {
+          "hex": "#000000",
+          "rgb": "rgb(0, 0, 0)",
+          "description": "Symbolizes the dark and edgy side of punk rock",
+          "name": "Punk Black"
+        },
+        {
+          "hex": "#ffffff",
+          "rgb": "rgb(255, 255, 255)",
+          "description": "Reflects the simplicity and boldness of punk aesthetics",
+          "name": "Rebel White"
+        },
+        {
+          "hex": "#011f5b",
+          "rgb": "rgb(1, 31, 91)",
+          "description": "Inspired by the rebellious spirit and energy of punk music",
+          "name": "Riot Blue"
+        },
+        {
+          "hex": "#ffe000",
+          "rgb": "rgb(255, 224, 0)",
+          "description": "Celebrates the vibrant and daring nature of punk culture",
+          "name": "Revolt Yellow"
+        }
+      ],
+      "id": 29
+    },
+    {
+      "theme": {
+        "input": "little red riding hood",
+        "emojis": ["👧", "🐺", "🏠"]
+      },
+      "colors": [
+        {
+          "hex": "#FF6666",
+          "rgb": "rgb(255, 102, 102)",
+          "description": "The color of Little Red Riding Hood's hood",
+          "name": "Red Riding Hood Red"
+        },
+        {
+          "hex": "#663333",
+          "rgb": "rgb(102, 51, 51)",
+          "description": "The color of the wolf's fur",
+          "name": "Wolf Brown"
+        },
+        {
+          "hex": "#FFCC66",
+          "rgb": "rgb(255, 204, 102)",
+          "description": "The color of the path in the forest",
+          "name": "Forest Path Yellow"
+        },
+        {
+          "hex": "#663300",
+          "rgb": "rgb(102, 51, 0)",
+          "description": "The color of the trees in the dark forest",
+          "name": "Dark Forest Brown"
+        },
+        {
+          "hex": "#996699",
+          "rgb": "rgb(153, 102, 153)",
+          "description": "The color of the grandmother's cottage",
+          "name": "Grandmother's Cottage Purple"
+        }
+      ],
+      "id": 30
     }
   ],
   "favourites": []
