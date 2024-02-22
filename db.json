@@ -598,42 +598,38 @@
     {
       "theme": {
         "input": "pokemon",
-        "emojis": [
-          "⚡",
-          "⏰",
-          "⭐"
-        ]
+        "emojis": ["⚡️", "🔥", "💧"]
       },
       "colors": [
         {
-          "hex": "#F34423",
-          "rgb": "rgb(243, 68, 35)",
-          "description": "Inspired by the fiery attributes of Charizard",
-          "name": "Charizard Red"
-        },
-        {
-          "hex": "#0079C1",
-          "rgb": "rgb(0, 121, 193)",
-          "description": "Resembles the color of the iconic Pikachu",
+          "hex": "#FFCB05",
+          "rgb": "rgb(255, 203, 5)",
+          "description": "Represents lightning and electricity",
           "name": "Pikachu Yellow"
         },
         {
-          "hex": "#0865B0",
-          "rgb": "rgb(8, 101, 176)",
-          "description": "Reflects the water element of Squirtle",
+          "hex": "#FF3D00",
+          "rgb": "rgb(255, 61, 0)",
+          "description": "Symbolizes fire and passion",
+          "name": "Charizard Red"
+        },
+        {
+          "hex": "#4A90E2",
+          "rgb": "rgb(74, 144, 226)",
+          "description": "Reflects the coolness and fluidity of water",
           "name": "Squirtle Blue"
         },
         {
-          "hex": "#732645",
-          "rgb": "rgb(115, 38, 69)",
-          "description": "Inspired by the mysterious nature of Gengar",
-          "name": "Gengar Purple"
+          "hex": "#8BC34A",
+          "rgb": "rgb(139, 195, 74)",
+          "description": "Represents the natural element and growth",
+          "name": "Bulbasaur Green"
         },
         {
-          "hex": "#88B92D",
-          "rgb": "rgb(136, 185, 45)",
-          "description": "Inspired by the grassy attributes of Bulbasaur",
-          "name": "Bulbasaur Green"
+          "hex": "#BAA8FF",
+          "rgb": "rgb(186, 168, 255)",
+          "description": "Mimics the mystical and psychic powers",
+          "name": "Mewtwo Purple"
         }
       ],
       "id": 15
